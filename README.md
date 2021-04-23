@@ -3,8 +3,7 @@ This repository is for the Hydra blockchain. It contains tools created by the co
 
 - [Docker Image for Hydra Node](https://hub.docker.com/repository/docker/locktrip/hydra-node)
 
-You can contribute by [forking](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/working-with-forks) and creating a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests)<br />
+You can contribute by [forking](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/working-with-forks) and creating a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests)<br /> <br />
 <hr />
-Here are a list of the community contributers:<br />
-
+Here are a list of the community contributers: <br />
 - [@A4B5TQ](https://github.com/A4B5TQ)
