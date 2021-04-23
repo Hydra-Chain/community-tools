@@ -8,4 +8,4 @@ You can contribute by [forking](https://docs.github.com/en/github/collaborating-
 <hr />
 Here are a list of the community contributers: <br />
 
-- [@tmaiaroto](https://gist.github.com/tmaiaroto)
+- [@tmaiaroto](https://github.com/tmaiaroto)
