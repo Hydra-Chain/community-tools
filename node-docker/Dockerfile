@@ -28,8 +28,8 @@ WORKDIR /root
 RUN mkdir -p Hydra
 WORKDIR /root/Hydra
 
-RUN wget -N https://github.com/Hydra-Chain/node/releases/download/hydra_v0.18.5.4/hydra-0.18.5.4-ubuntu20.04-x86_64-gnu.zip
-RUN unzip -o hydra-0.18.5.4-ubuntu20.04-x86_64-gnu.zip
+RUN wget -N https://github.com/Hydra-Chain/node/releases/download/hydra_v0.20.4/hydra-0.20.4-ubuntu20.04-x86_64-gnu.zip
+RUN unzip -o hydra-0.20.4-ubuntu20.04-x86_64-gnu.zip
 RUN mkdir ~/.hydra
 RUN cp hydra.conf ~/.hydra/
 
